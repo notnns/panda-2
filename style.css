@@ -1,0 +1,42 @@
+.orange-bg{
+    background-color: #fceae8;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #ff136f;
+}
+.catg-1, .catg-2, .catg-3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.catg-1{
+    background-color: orchid;
+
+}
+
+
+.catg-2{
+    background-color: #60c0e6;
+}
+
+.catg-3{
+    background-color: orange;
+    
+}
+
+.catagories h1{
+    color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.container {
+    margin-bottom: 50px;
+}
